@@ -1,29 +1,30 @@
 <h1 align="center">Salut 👋 Yao</h1>
 <h3 align="center">Passionné de développement Frontend & Gestion IT</h3>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc1YTF3NjQyMXk3M2FidXQ1czZwZm01cHA3bWozZW1zaDAxdTAwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="code" width="400" style="display: block; margin-left: auto; margin-right: auto;" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuyao&label=Profile%20views&color=0e75b6&style=flat" alt="manuyao" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuyao" alt="manuyao" /></a> </p>
 
-- ❤️ Projet qui me tient à cœur [SmRP (Semi-Roleplay )](https://github.com/ManuYao/SmRP)
+- ❤️ Projet qui me tient à cœur : [SmRP (Semi-Roleplay )](https://github.com/ManuYao/SmRP)
 
-- 🌱 J'apprends actuellement **REACT & MYSQL**
+- 🌱 J'apprends actuellement : **REACT & MYSQL**
 
-- 💼 Projet qui m'a facilité la vie [Clardian Page](https://github.com/ManuYao/ClardianLunchPage)
+- 💼 Projet qui m'a facilité la vie : [Clardian Page](https://github.com/ManuYao/ClardianLunchPage)
 
-- 🤝 Un projet en cours de développement [FoodBNS (Food business)](https://github.com/ManuYao/FoodBNS)
+- 🤝 Un projet en cours de développement : [FoodBNS (Food business)](https://github.com/ManuYao/FoodBNS)
 
-- 👨‍💻 Tous mes projets seront prochainement disponibles [Portfolio en cours d'élaboration](Portfolio en cours d'élaboration)
+- 👨‍💻 Tous mes projets seront prochainement disponibles : [Portfolio en cours d'élaboration](Portfolio en cours d'élaboration)
 
-- 🎧 Veille technologique [https://feedly.com/i/my - https://podcasts.google.com/?hl=fr](https://feedly.com/i/my - https://podcasts.google.com/?hl=fr)
+- 🎧 Veille technologique : [https://feedly.com/i/my - https://podcasts.google.com/?hl=fr](https://feedly.com/i/my - https://podcasts.google.com/?hl=fr)
 
-- 💬 À propos de moi **J'apprends de façon continue**
+- 💬 À propos de moi : **J'apprends de façon continue**
 
-- 📫 Me contacter **yaomanuit@gmail.com**
+- 📫 Me contacter : **yaomanuit@gmail.com**
 
-- 📄 Experiences [J'ai eu de la chance d'avoir travaillé avec une équipe et gérer l'organisation. J'ai eu aussi le droit à rejoindre une alternance pendant une période de deux années dans le domaine du système et réseau J'ai eu de la chance d'avoir travaillé avec une équipe et gérer l'organisation. J'ai eu aussi le droit à rejoindre une alternance pendant une période de deux années dans le domaine du système et réseau J'ai eu de la chance d'avoir travaillé avec une équipe et gérer l'organisation. J'ai eu aussi le droit à rejoindre une alternance pendant une période de deux années dans le domaine du système et réseau](J'ai eu de la chance d'avoir travaillé avec une équipe et gérer l'organisation. J'ai eu aussi le droit à rejoindre une alternance pendant une période de deux années dans le domaine du système et réseau J'ai eu de la chance d'avoir travaillé avec une équipe et gérer l'organisation. J'ai eu aussi le droit à rejoindre une alternance pendant une période de deux années dans le domaine du système et réseau J'ai eu de la chance d'avoir travaillé avec une équipe et gérer l'organisation. J'ai eu aussi le droit à rejoindre une alternance pendant une période de deux années dans le domaine du système et réseau)
+- 📄 Experiences : *J'ai eu de la chance d'avoir travaillé avec une équipe et gérer l'organisation. J'ai eu aussi le droit à rejoindre une alternance pendant une période de deux années dans le domaine du système et réseau*
 
-- 🏋 Autre activité **Musculation en salle de sport**
+- 🏋 Autre activité : **Musculation en salle de sport**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
