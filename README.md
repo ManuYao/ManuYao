@@ -14,7 +14,7 @@
 
 - 🤝 Un projet en cours de développement : [FoodBNS (Food business)](https://github.com/ManuYao/FoodBNS)
 
-- 👨‍💻 Tous mes projets seront prochainement disponibles : [Portfolio en cours d'élaboration](Portfolio en cours d'élaboration)
+- 👨‍💻 Tous mes projets seront prochainement disponibles : *Portfolio en cours d'élaboration*
 
 - 🎧 Veille technologique : [https://feedly.com/i/my - https://podcasts.google.com/?hl=fr](https://feedly.com/i/my - https://podcasts.google.com/?hl=fr)
 
