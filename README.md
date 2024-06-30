@@ -12,7 +12,7 @@
 
 - 💼 Projet qui m'a facilité la vie : [Clardian Page](https://github.com/ManuYao/ClardianLunchPage)
 
-- 🤝 Un projet en cours de développement : [FoodBNS (Food business)](https://github.com/ManuYao/FoodBNS)
+- 🤝 Un projet en cours de développement : [YSPORT](https://github.com/ManuYao/Sport)
 
 - 👨‍💻 Tous mes projets seront prochainement disponibles : *Portfolio en cours d'élaboration*
 
