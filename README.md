@@ -1,6 +1,7 @@
-<h1 align="center">Salut je me présente 👋 Yao</h1>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=D97757,9575FF,1FC777&section=header&text=Yao&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20%C2%B7%20Frontend%20%C2%B7%20IT&descAlignY=58&descSize=20" alt="Yao" width="100%" /></p>
 <h3 align="center">Passionné de développement Frontend & Gestion IT</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc1YTF3NjQyMXk3M2FidXQ1czZwZm01cHA3bWozZW1zaDAxdTAwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="code" width="400" style="display: block; margin-left: auto; margin-right: auto;" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=620&lines=Je+construis+Flex+Timer+%F0%9F%8F%8B;React+%C2%B7+React+Native+%C2%B7+Expo;Supabase+%C2%B7+Python+%C2%B7+Google+Cloud;Cod%C3%A9+avec+Claude+%F0%9F%A4%96" alt="Texte animé" /></p>
+
 - ❤️ Projet qui me tient à cœur : [SmRP (Semi-Roleplay )](https://github.com/ManuYao/SmRP)
 
 - 🌱 J'apprends actuellement : **REACT & MYSQL**
