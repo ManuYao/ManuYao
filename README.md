@@ -1,11 +1,6 @@
 <h1 align="center">Salut je me présente 👋 Yao</h1>
 <h3 align="center">Passionné de développement Frontend & Gestion IT</h3>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc1YTF3NjQyMXk3M2FidXQ1czZwZm01cHA3bWozZW1zaDAxdTAwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="code" width="400" style="display: block; margin-left: auto; margin-right: auto;" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuyao&label=Profile%20views&color=0e75b6&style=flat" alt="manuyao" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuyao" alt="manuyao" /></a> </p>
-
 - ❤️ Projet qui me tient à cœur : [SmRP (Semi-Roleplay )](https://github.com/ManuYao/SmRP)
 
 - 🌱 J'apprends actuellement : **REACT & MYSQL**
