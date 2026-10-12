@@ -50,6 +50,6 @@
 
 <h3 align="left">📊 Stats</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=manuyao&show_icons=true&include_all_commits=true&ring_color=D97757&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=C9D1D9&icon_color=1FC777&border_radius=12&locale=fr" alt="Statistiques GitHub" height="190" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuyao&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=C9D1D9&icon_color=1FC777&border_radius=12&locale=fr" alt="Langages les plus utilisés" height="190" />
+<img src="https://github-readme-stats.vercel.app/api?username=manuyao&show_icons=true&include_all_commits=true&ring_color=D97757&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=C9D1D9&icon_color=1FC777&border_radius=12&locale=fr" alt="Statistiques GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuyao&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=C9D1D9&icon_color=1FC777&border_radius=12&locale=fr" alt="Langages les plus utilisés" />
 </p>
