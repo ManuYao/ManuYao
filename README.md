@@ -31,7 +31,7 @@
 <h3 align="left">🤖 Activité récente — codée avec Claude</h3>
 <!--ACTIVITY:start-->
 <p align="left">
-<img src="https://img.shields.io/badge/Dernier%20push-il%20y%20a%202%20j-1FC777?style=for-the-badge" alt="Dernier push" />
+<img src="https://img.shields.io/badge/Dernier%20push-il%20y%20a%203%20j-1FC777?style=for-the-badge" alt="Dernier push" />
 <img src="https://img.shields.io/badge/Commits%207%20jours-37-D97757?style=for-the-badge" alt="Commits 7 jours" />
 <img src="https://img.shields.io/badge/Commits%2030%20jours-325-D97757?style=for-the-badge" alt="Commits 30 jours" />
 <img src="https://img.shields.io/badge/Jours%20actifs%20(30%20j)-13-0e75b6?style=for-the-badge" alt="Jours actifs (30 j)" />
