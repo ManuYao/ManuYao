@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Jours%20actifs%20(30%20j)-11-0e75b6?style=for-the-badge" alt="Jours actifs (30 j)" />
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(total)-0-D97757?style=for-the-badge" alt="Co-signés Claude (total)" />
+<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(total)-153-D97757?style=for-the-badge" alt="Co-signés Claude (total)" />
 <img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(30%20j)-104-D97757?style=for-the-badge" alt="Co-signés Claude (30 j)" />
 <img src="https://img.shields.io/badge/Projets%20actifs%20(30%20j)-2-9575FF?style=for-the-badge" alt="Projets actifs (30 j)" />
 </p>
