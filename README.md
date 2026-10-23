@@ -37,8 +37,8 @@
 <img src="https://img.shields.io/badge/Jours%20actifs%20(30%20j)-11-0e75b6?style=for-the-badge" alt="Jours actifs (30 j)" />
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(total)-155-D97757?style=for-the-badge" alt="Co-signés Claude (total)" />
-<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(30%20j)-95-D97757?style=for-the-badge" alt="Co-signés Claude (30 j)" />
+<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(total)-164-D97757?style=for-the-badge" alt="Co-signés Claude (total)" />
+<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(30%20j)-104-D97757?style=for-the-badge" alt="Co-signés Claude (30 j)" />
 <img src="https://img.shields.io/badge/Projets%20actifs%20(30%20j)-2-9575FF?style=for-the-badge" alt="Projets actifs (30 j)" />
 </p>
 <p align="left"><sub>Mis à jour automatiquement le 2026-10-23 · toutes branches confondues</sub></p>
