@@ -31,14 +31,14 @@
 <h3 align="left">🤖 Activité récente — codée avec Claude</h3>
 <!--ACTIVITY:start-->
 <p align="left">
-<img src="https://img.shields.io/badge/Dernier%20push-il%20y%20a%2015%20h-1FC777?style=for-the-badge" alt="Dernier push" />
-<img src="https://img.shields.io/badge/Commits%207%20jours-35-D97757?style=for-the-badge" alt="Commits 7 jours" />
-<img src="https://img.shields.io/badge/Commits%2030%20jours-240-D97757?style=for-the-badge" alt="Commits 30 jours" />
-<img src="https://img.shields.io/badge/Jours%20actifs%20(30%20j)-15-0e75b6?style=for-the-badge" alt="Jours actifs (30 j)" />
+<img src="https://img.shields.io/badge/Dernier%20push-il%20y%20a%2017%20h-1FC777?style=for-the-badge" alt="Dernier push" />
+<img src="https://img.shields.io/badge/Commits%207%20jours-39-D97757?style=for-the-badge" alt="Commits 7 jours" />
+<img src="https://img.shields.io/badge/Commits%2030%20jours-244-D97757?style=for-the-badge" alt="Commits 30 jours" />
+<img src="https://img.shields.io/badge/Jours%20actifs%20(30%20j)-16-0e75b6?style=for-the-badge" alt="Jours actifs (30 j)" />
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(total)-198-D97757?style=for-the-badge" alt="Co-signés Claude (total)" />
-<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(30%20j)-111-D97757?style=for-the-badge" alt="Co-signés Claude (30 j)" />
+<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(total)-207-D97757?style=for-the-badge" alt="Co-signés Claude (total)" />
+<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(30%20j)-120-D97757?style=for-the-badge" alt="Co-signés Claude (30 j)" />
 <img src="https://img.shields.io/badge/Projets%20actifs%20(30%20j)-3-9575FF?style=for-the-badge" alt="Projets actifs (30 j)" />
 </p>
 <p align="left"><sub>Mis à jour automatiquement le 2026-10-28 · toutes branches confondues</sub></p>
