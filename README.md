@@ -31,17 +31,17 @@
 <h3 align="left">🤖 Activité récente — codée avec Claude</h3>
 <!--ACTIVITY:start-->
 <p align="left">
-<img src="https://img.shields.io/badge/Dernier%20push-il%20y%20a%202%20j-1FC777?style=for-the-badge" alt="Dernier push" />
-<img src="https://img.shields.io/badge/Commits%207%20jours-48-D97757?style=for-the-badge" alt="Commits 7 jours" />
-<img src="https://img.shields.io/badge/Commits%2030%20jours-231-D97757?style=for-the-badge" alt="Commits 30 jours" />
+<img src="https://img.shields.io/badge/Dernier%20push-il%20y%20a%201%20j-1FC777?style=for-the-badge" alt="Dernier push" />
+<img src="https://img.shields.io/badge/Commits%207%20jours-50-D97757?style=for-the-badge" alt="Commits 7 jours" />
+<img src="https://img.shields.io/badge/Commits%2030%20jours-235-D97757?style=for-the-badge" alt="Commits 30 jours" />
 <img src="https://img.shields.io/badge/Jours%20actifs%20(30%20j)-15-0e75b6?style=for-the-badge" alt="Jours actifs (30 j)" />
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(total)-212-D97757?style=for-the-badge" alt="Co-signés Claude (total)" />
-<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(30%20j)-104-D97757?style=for-the-badge" alt="Co-signés Claude (30 j)" />
+<img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(30%20j)-101-D97757?style=for-the-badge" alt="Co-signés Claude (30 j)" />
 <img src="https://img.shields.io/badge/Projets%20actifs%20(30%20j)-3-9575FF?style=for-the-badge" alt="Projets actifs (30 j)" />
 </p>
-<p align="left"><sub>Mis à jour automatiquement le 2026-10-30 · toutes branches confondues</sub></p>
+<p align="left"><sub>Mis à jour automatiquement le 2026-10-31 · toutes branches confondues</sub></p>
 <!--ACTIVITY:end-->
 <p align="left"><a href="https://github.com/ManuYao/YFlex_Time"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manuyao&repo=YFlex_Time&show_owner=true&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=C9D1D9&icon_color=1FC777&border_radius=12&locale=fr" alt="Flex Timer" /></a></p>
 
