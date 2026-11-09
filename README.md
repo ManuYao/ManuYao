@@ -1,6 +1,10 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=D97757,9575FF,1FC777&section=header&text=Yao&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20%C2%B7%20Frontend%20%C2%B7%20IT&descAlignY=58&descSize=20" alt="Yao" width="100%" /></p>
 <h3 align="center">Passionné de développement Frontend & Gestion IT</h3>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=620&lines=Je+construis+Flex+Timer+%F0%9F%8F%8B;React+%C2%B7+React+Native+%C2%B7+Expo;Supabase+%C2%B7+Python+%C2%B7+Google+Cloud;Cod%C3%A9+avec+Claude+%F0%9F%A4%96" alt="Texte animé" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=620&lines=Dev+depuis+2020+%C2%B7+avec+Claude+aujourd%27hui+%F0%9F%A4%96;Je+construis+Flex+Timer+%F0%9F%8F%8B;React+%C2%B7+React+Native+%C2%B7+Expo;Supabase+%C2%B7+Python+%C2%B7+Google+Cloud" alt="Texte animé" /></p>
+
+<p align="center">Développeur frontend avec un fond d'administrateur système. Je code depuis 2020 et je construis aujourd'hui mes projets avec Claude, sans m'en cacher : c'est moi qui cadre, structure, guide, teste et livre.</p>
+
+- 🕰️ Je code depuis **2020**, bien avant Claude : premier commit en février 2020, premier commit co-signé Claude en avril 2026
 
 - ❤️ Projet qui me tient à cœur : [SmRP (Semi-Roleplay )](https://github.com/ManuYao/SmRP)
 
@@ -10,7 +14,7 @@
 
 - 🤝 Un projet en cours de développement : [YSPORT](https://github.com/ManuYao/Sport)
 
-- 👨‍💻 Tous mes projets seront prochainement disponibles : *Portfolio en cours d'élaboration*
+- 👨‍💻 Tous mes projets : [mon portfolio](https://manuyao.github.io/SitePerso/)
 
 - 🎧 Veille technologique : [https://feedly.com/i/my - https://podcasts.google.com/?hl=fr](https://feedly.com/i/my - https://podcasts.google.com/?hl=fr)
 
@@ -18,7 +22,7 @@
 
 - 📫 Me contacter : **yaomanuit@gmail.com**
 
-- 📄 Experiences : *J'ai eu de la chance d'avoir travaillé avec une équipe et gérer l'organisation. J'ai eu aussi le droit à rejoindre une alternance pendant une période de deux années dans le domaine du système et réseau*
+- 📄 Expériences : administrateur système en alternance chez BMI System, avec IMIE Paris (sept. 2021 – juin 2023), puis Concepteur Développeur de Solutions Digitales à Digital Campus (sept. 2023 – sept. 2025). Travail en équipe et organisation.
 
 - 🏋 Autre activité : **Musculation en salle de sport**
 
@@ -27,6 +31,40 @@
 <a href="https://linkedin.com/in/yaomanu-informatique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel n'djable yao" height="30" width="40" /></a>
 <a href="https://discord.gg/yao2013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yao2013" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">🕰️ Avant Claude</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Premier%20commit-f%C3%A9vrier%202020-1FC777?style=for-the-badge" alt="Premier commit : février 2020" />
+<img src="https://img.shields.io/badge/Premier%20commit%20Claude-avril%202026-D97757?style=for-the-badge" alt="Premier commit co-signé Claude : avril 2026" />
+</p>
+<p align="left">Aujourd'hui je code presque toujours avec Claude, et je l'assume (voir plus bas). Mais je n'ai pas commencé avec lui : mon premier commit date de <b>février 2020</b>, plus de six ans avant le premier commit co-signé Claude (<b>avril 2026</b>), et plusieurs projets datent d'avant l'arrivée de ChatGPT, fin 2022. Les dates viennent de l'historique git, chacun peut les vérifier.</p>
+<ul>
+<li><b>2020</b> · <a href="https://github.com/ManuYao/SmRP">SmRP</a> — plugin Minecraft en Java (Spigot) · BedOnline — un second plugin Spigot (dépôt privé)</li>
+<li><b>2021</b> · <a href="https://github.com/ManuYao/Ypictures">Ypictures</a> — projet Kotlin</li>
+<li><b>sept. 2021 → juin 2023</b> · alternance <b>administrateur système</b> (BMI System) avec une formation à IMIE Paris : environnements Linux et Windows</li>
+<li><b>2022</b> · <a href="https://github.com/ManuYao/Base_HTML_SCSS">Base_HTML_SCSS</a> — base HTML / SCSS · <a href="https://github.com/ManuYao/dartUdm">dartUdm</a> — Dart</li>
+<li><b>sept. 2023 → sept. 2025</b> · formation <b>Concepteur Développeur de Solutions Digitales</b> (Digital Campus)</li>
+<li><b>2023 → 2025</b> · <a href="https://github.com/ManuYao/ClardianLunchPage">ClardianLunchPage</a> (Python), <a href="https://github.com/ManuYao/FoodBNS">FoodBNS</a>, <a href="https://github.com/ManuYao/Portefolio">Portefolio</a>, <a href="https://github.com/ManuYao/Sport">Sport</a> (JavaScript / CSS)</li>
+<li><b>2026</b> · <a href="https://github.com/ManuYao/YFlex_Time">Flex Timer</a> — le premier projet co-signé Claude</li>
+</ul>
+
+<h3 align="left">🧱 Ma base technique</h3>
+<ul>
+<li><b>Administration système</b> : près de deux ans d'alternance sur des environnements Linux et Windows, avec des tâches de développement et d'administration.</li>
+<li><b>Conception et développement</b> : titre de Concepteur Développeur de Solutions Digitales (2023 – 2025), avec notamment MySQL et PHP.</li>
+<li><b>Code écrit à la main en 2020</b> : <a href="https://github.com/ManuYao/SmRP">SmRP</a>, un plugin Java sur l'API Spigot. Commande personnalisée, écoute d'événements du jeu, menu à 36 cases, logique liée à l'heure de la journée. Le dépôt est public : le code et les dates de commit se lisent tels quels.</li>
+<li><b>Plusieurs langages avant 2023</b> : Java, Kotlin, HTML / SCSS, Dart.</li>
+</ul>
+
+<h3 align="left">🧭 Comment je travaille avec Claude</h3>
+<p align="left">Aujourd'hui, je code presque toujours avec Claude. Je ne le laisse pas travailler les yeux fermés : je suis le chef d'orchestre, c'est moi qui guide. Je ne maîtrise pas chaque ligne de code, mais je maîtrise le travail fourni.</p>
+<ul>
+<li><b>Je guide</b> : l'architecture et les technos, c'est moi qui les choisis et qui y réfléchis avant de coder.</li>
+<li><b>J'organise</b> : chaque projet est structuré dans Notion, étape par étape.</li>
+<li><b>J'essaie de comprendre</b> le code écrit, sans le faire à chaque fois : je relis quand le sujet est délicat, et quand quelque chose est trop complexe, je prends le temps de comprendre le pourquoi du comment.</li>
+<li><b>Je teste</b> ce qui est produit.</li>
+<li><b>Je ne m'appuie pas que sur Claude</b> : j'utilise aussi les outils vus à l'école, ceux qu'on trouve en ligne et différentes API.</li>
+</ul>
 
 <h3 align="left">🤖 Activité récente — codée avec Claude</h3>
 <!--ACTIVITY:start-->
