@@ -37,15 +37,6 @@
 <img src="https://img.shields.io/badge/Premier%20commit-f%C3%A9vrier%202020-1FC777?style=for-the-badge" alt="Premier commit : février 2020" />
 <img src="https://img.shields.io/badge/Premier%20commit%20Claude-avril%202026-D97757?style=for-the-badge" alt="Premier commit co-signé Claude : avril 2026" />
 </p>
-<ul>
-<li><b>2020</b> · <a href="https://github.com/ManuYao/SmRP">SmRP</a> — plugin Minecraft en Java (Spigot) · BedOnline — un second plugin Spigot (dépôt privé)</li>
-<li><b>2021</b> · <a href="https://github.com/ManuYao/Ypictures">Ypictures</a> — projet Kotlin</li>
-<li><b>sept. 2021 → juin 2023</b> · alternance <b>administrateur système</b> (BMI System) avec une formation à IMIE Paris : environnements Linux et Windows</li>
-<li><b>2022</b> · <a href="https://github.com/ManuYao/Base_HTML_SCSS">Base_HTML_SCSS</a> — base HTML / SCSS · <a href="https://github.com/ManuYao/dartUdm">dartUdm</a> — Dart</li>
-<li><b>sept. 2023 → sept. 2025</b> · formation <b>Concepteur Développeur de Solutions Digitales</b> (Digital Campus)</li>
-<li><b>2023 → 2025</b> · <a href="https://github.com/ManuYao/ClardianLunchPage">ClardianLunchPage</a> (Python), <a href="https://github.com/ManuYao/FoodBNS">FoodBNS</a>, <a href="https://github.com/ManuYao/Portefolio">Portefolio</a>, <a href="https://github.com/ManuYao/Sport">Sport</a> (JavaScript / CSS)</li>
-<li><b>2026</b> · <a href="https://github.com/ManuYao/YFlex_Time">Flex Timer</a> — le premier projet co-signé Claude</li>
-</ul>
 
 <h3 align="left">🧱 Ma base technique</h3>
 <ul>
