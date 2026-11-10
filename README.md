@@ -2,7 +2,7 @@
 <h3 align="center">Passionné de développement Frontend & Gestion IT</h3>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=620&lines=Dev+depuis+2020+%C2%B7+avec+Claude+aujourd%27hui+%F0%9F%A4%96;Je+construis+Flex+Timer+%F0%9F%8F%8B;React+%C2%B7+React+Native+%C2%B7+Expo;Supabase+%C2%B7+Python+%C2%B7+Google+Cloud" alt="Texte animé" /></p>
 
-<p align="center">Développeur frontend avec un fond d'administrateur système. Je code depuis 2020 et je construis aujourd'hui mes projets avec Claude, sans m'en cacher : c'est moi qui cadre, structure, guide, teste et livre.</p>
+<p align="center">Développeur frontend avec un fond d'administrateur système. Je code depuis 2020 et je construis aujourd'hui mes projets avec Claude : c'est moi qui cadre, structure, guide, teste et livre.</p>
 
 - 🕰️ Je code depuis **2020**, bien avant Claude : premier commit en février 2020, premier commit co-signé Claude en avril 2026
 
