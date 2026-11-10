@@ -24,7 +24,7 @@
 
 - 📄 Expériences : administrateur système en alternance chez BMI System, avec IMIE Paris (sept. 2021 – juin 2023), puis Concepteur Développeur de Solutions Digitales à Digital Campus (sept. 2023 – sept. 2025). Travail en équipe et organisation.
 
-- 🏋 Autre activité : **Musculation en salle de sport**
+- 🏋📸 Autre activité : **Musculation en salle de sport** & **Photo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
