@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Premier%20commit-f%C3%A9vrier%202020-1FC777?style=for-the-badge" alt="Premier commit : février 2020" />
 <img src="https://img.shields.io/badge/Premier%20commit%20Claude-avril%202026-D97757?style=for-the-badge" alt="Premier commit co-signé Claude : avril 2026" />
 </p>
-<p align="left">Aujourd'hui je code presque toujours avec Claude, et je l'assume (voir plus bas). Mais je n'ai pas commencé avec lui : mon premier commit date de <b>février 2020</b>, plus de six ans avant le premier commit co-signé Claude (<b>avril 2026</b>), et plusieurs projets datent d'avant l'arrivée de ChatGPT, fin 2022. Les dates viennent de l'historique git, chacun peut les vérifier.</p>
+<p align="left">Aujourd'hui je code presque toujours avec Claude, mon premier commit date de <b>février 2020</b>, plus de six ans avant le premier commit co-signé Claude (<b>avril 2026</b>), et plusieurs projets datent d'avant l'arrivée de ChatGPT, fin 2022. Les dates viennent de l'historique git, chacun peut les vérifier.</p>
 <ul>
 <li><b>2020</b> · <a href="https://github.com/ManuYao/SmRP">SmRP</a> — plugin Minecraft en Java (Spigot) · BedOnline — un second plugin Spigot (dépôt privé)</li>
 <li><b>2021</b> · <a href="https://github.com/ManuYao/Ypictures">Ypictures</a> — projet Kotlin</li>
