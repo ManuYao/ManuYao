@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/Co--sign%C3%A9s%20Claude%20(30%20j)-198-D97757?style=for-the-badge" alt="Co-signés Claude (30 j)" />
 <img src="https://img.shields.io/badge/Projets%20actifs%20(30%20j)-6-9575FF?style=for-the-badge" alt="Projets actifs (30 j)" />
 </p>
-<p align="left"><sub>Mis à jour automatiquement le 2026-11-15 · toutes branches confondues</sub></p>
+<p align="left"><sub>Mis à jour automatiquement le 2026-11-16 · toutes branches confondues</sub></p>
 <!--ACTIVITY:end-->
 <p align="left"><a href="https://github.com/ManuYao/YFlex_Time"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manuyao&repo=YFlex_Time&show_owner=true&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=C9D1D9&icon_color=1FC777&border_radius=12&locale=fr" alt="Flex Timer" /></a></p>
 
